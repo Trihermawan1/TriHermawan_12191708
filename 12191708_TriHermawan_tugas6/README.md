@@ -1,7 +1,7 @@
 # startup_namer
 
 ## Tugas 6 - Mobile Programming
-### Oleh: Herda Dwi Sulistianto (12191695)
+### Oleh: Tri Hermawan (12191708)
 
 ___
 
